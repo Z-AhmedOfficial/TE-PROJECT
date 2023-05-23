@@ -1,0 +1,143 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  nav a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+nav a:hover{
+    color: palevioletred;
+}
+  section {
+    padding: 20px;
+  }
+  footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+.hea1{
+    color: palevioletred;
+    font-weight: bold; 
+}
+button{
+    position: relative;
+    left: 550px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  section {
+    padding: 20px;
+  }
+  .h22 {
+    text-align: center;
+    color: #333;
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-shadow: 4px 4px 2px rgba(0,0,0,0.5);
+  }
+  .menu-item {
+    background-color: palevioletred;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .menu-item h3 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .menu-item p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+  .price {
+    color: #333;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+.dis1inp{
+  float: right;
+  width: 50px;
+  height: 50px;
+}
+.mybt{
+  position: relative;
+  left: 550px;
+}
+.img2{
+  position: relative;
+  left: 150px;
+}
+.img1{
+  position: relative;
+  left: 150px;
+}
+.img3{
+  position: relative;
+  left: 150px;
+}
+.img4{
+  position: relative;
+  left: 150px;
+}
+.img5{
+  position: relative;
+  left: 150px;
+}
+.img6{
+  position: relative;
+  left: 150px;
+}
+footer{
+  display: flex;
+  background-color: darkgreen;
+  height: 400px;
+  margin-top: 50px;
+}
+footer div{
+  margin-top: 50px;
+}
+footer div i{
+  position: relative;
+  left: 750px;
+}
+.tyimg{
+  position: relative;
+  left: 90px;
+}

@@ -1,0 +1,128 @@
+.main{
+    height: 100vh;
+}
+.form{
+    background-color: palevioletred;
+    width: 530px;
+    height: 600px;
+    border: 1px solid grey;
+    float: right;
+    margin-right: 400px;
+    margin-top: 40px;
+    padding-bottom: 170px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px 5px #000000;
+}
+.form h2{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+    font-size: 30px;
+    color: #1c1e21;
+    padding: 5px;
+}
+.form p{
+    padding: 7px 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form .cross{
+    font-size: 2em;
+    color: grey;
+    float: right;
+    margin-top: -80px;
+}
+.first{
+    padding: 15px 15px;
+    margin-top: 10px;
+    background-color: #f5f6f7;
+    border: none;
+    margin-left: 5px;
+    border: 1px solid #ccd0d5;
+    border-radius: 5px;
+}
+.seco{
+    padding: 15px 15px;
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: #f5f6f7;
+    border: none;
+    /* position: relative; */
+    bottom: 40px;
+    left: 190px;
+    justify-content: space-around;
+    border: 1px solid #ccd0d5;
+    border-radius: 5px;
+}
+.third{
+    padding: 15px 15px;
+    width: 97%;
+    margin-top: 5px;
+    background-color: #f5f6f7;
+    border: none;
+    margin-left: 5px;
+    border: 1px solid #ccd0d5;
+    border-radius: 5px;
+}
+.form .p2{
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+}
+.form .question{
+    background-color: #606770;
+    color: white;
+    border-radius: 25px;
+    padding: 2px 5px;
+    margin: 2px 5px;
+}
+.form select{
+    /* padding: 5px 25px; */
+    margin-left: 10px;
+    width: 120px;
+    height: 35px;  
+    border-radius: 5px; 
+    border: 1px solid #ccd0d5;
+}
+.form .rad{
+    padding: 8px 23px;
+    border: 1px solid #ccd0d5;
+    border-radius: 5px;
+    display: inline;
+    margin-left: 15px;
+}
+.form .rad input{ 
+    margin-top: 10px;
+    margin-left: 10px;
+    position: relative;
+    left: 15px;
+}
+.form label{
+    position: relative;
+    left: -15px;
+}
+.p3{
+    margin-top: 8px;
+    font-size: small;
+    color: gray;
+}
+.p3 .Lm{
+    color: blue;
+}
+.form button{
+    border: 1px solid black;
+    background: black;
+    color: palevioletred;
+    position: relative;
+    border-radius: 5px;
+    padding: 10px 55px;
+    top: 5px;
+    left: 100px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;    
+    font-weight: bold;
+    font-size: 20px;
+}
+
+a .mbt{
+    position: relative;
+    top: 80px;
+  }
